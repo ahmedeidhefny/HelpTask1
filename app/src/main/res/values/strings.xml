@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">Souq Task</string>
 
-    <string name="loading_label">Loading...</string>
+    <string name="loading_label">Loading</string>
     <string name="language_contentDes">Language</string>
-    <string name="not_found_category_labal">Not Found subCategory</string>
+    <string name="category_image_contentDes">category</string>
+    <string name="back_icon_contentDes">Back</string>
+    <string name="not_found_category_label">Not Found subCategory</string>
     <string name="english">English</string>
-    <string name="arabic">Arabic</string>
+    <string name="arabic">عربى</string>
 </resources>

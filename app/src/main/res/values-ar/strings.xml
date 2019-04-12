@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="loading_label">تحميل...</string>
+    <string name="app_name">سوق</string>
+    <string name="loading_label">تحميل</string>
     <string name="language_contentDes">اللغه</string>
-    <string name="not_found_category_labal">لا يوجد عناصر</string>
-    <string name="english">انجليزى</string>
+    <string name="category_image_contentDes">عنصر</string>
+    <string name="not_found_category_label">لا يوجد عناصر</string>
+    <string name="english">English</string>
     <string name="arabic">عربى</string>
 </resources>

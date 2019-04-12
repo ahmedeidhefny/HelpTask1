@@ -20,7 +20,7 @@ public class CategoryViewModel extends ViewModel {
     public LiveData<List<Category>> getCategories(String categoryId, String countryId) {
 
         if (categoryList == null) {
-            categoryList = new MutableLiveData<List<Category>>();
+            categoryList = new MutableLiveData<>();
             loadCategoriesData(categoryId, countryId);
         }
 

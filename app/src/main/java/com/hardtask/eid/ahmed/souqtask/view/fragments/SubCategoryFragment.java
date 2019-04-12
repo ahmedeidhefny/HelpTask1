@@ -103,7 +103,7 @@ public class SubCategoryFragment extends Fragment {
                 progressBar.hide();
                 if (categories.size() <= 0) {
                     progressLayout.setVisibility(View.VISIBLE);
-                    massageLoading.setText(getString(R.string.not_found_category_labal));
+                    massageLoading.setText(getString(R.string.not_found_category_label));
                 }
                 //set Adapter to category RecyclerView
                 CategoryAdapter adapter = new CategoryAdapter(getActivity(), categories);
