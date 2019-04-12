@@ -118,7 +118,7 @@ public class CategoryFragment extends Fragment {
                 // save language to shardPreferences
                 editor.putString(AppConfig.ShardPreference_Language_Key, "en");
                 editor.commit();
-                //recreate the acivity
+                //recreate the acivity...
                 getActivity().recreate();
                 break;
             case MENU_AR:
