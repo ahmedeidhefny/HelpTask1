@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_label">تحميل...</string>
+    <string name="language_contentDes">اللغه</string>
+    <string name="not_found_category_labal">لا يوجد عناصر</string>
+    <string name="english">انجليزى</string>
+    <string name="arabic">عربى</string>
+</resources>
